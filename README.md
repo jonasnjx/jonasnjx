@@ -14,8 +14,18 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=social)
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME?style=social)
+![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
+![GitHub stars](https://img.shields.io/github/stars/jonasnjx?style=social)
+
+### 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasnjx&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com/?user=jonasnjx&theme=radical)
+
+### 🌱 Contribution Graph:
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasnjx&theme=react-dark)
+
 
 ### 🌍 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasnjx/)
