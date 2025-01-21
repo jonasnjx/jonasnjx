@@ -20,9 +20,6 @@
 ### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasnjx&show_icons=true&theme=radical)
 
-### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=jonasnjx&theme=radical)
-
 ### 🌱 Contribution Graph:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasnjx&theme=react-dark)
 
