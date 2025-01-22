@@ -4,10 +4,6 @@
     <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud Expert" width="80%">
 </div>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/tools.png" alt="Tech Tools" width="80%">
-</div>  
-
 ---
 
 ### 🚀 About Me  
