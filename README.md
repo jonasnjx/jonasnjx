@@ -24,8 +24,3 @@
 
 ### 🌱 Contribution Graph:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasnjx&theme=react-dark)
-
-
-### 🌍 Connect with Me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasnjx/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://jonasnjx.vercel.app/)
