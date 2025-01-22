@@ -1,13 +1,19 @@
-# Welcome to My GitHub Profile! 👋
+# Hi, I'm Jonas! 👋  
 
-![Header Image](https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png)
-![Header Image](https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/tools.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud Expert" width="80%">
+</div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/tools.png" alt="Tech Tools" width="80%">
+</div>  
 
-### 🚀 About Me
-- 🔭 I'm an experienced **Cloud & Data Engineer**
-- 🌱 I develop data pipelines and architectures for businesses using cloud technologies **AWS, GCP, Azure**
-- ⚡ Fun fact: I also enjoy developing new applications using tools like **Python, HTML, JavaScript**
+---
+
+### 🚀 About Me  
+- 🔭 I'm an experienced **Cloud & Data Engineer**.
+- 🌱 I develop data pipelines and architectures for businesses using cloud technologies **AWS, GCP, Azure**.
+- ⚡ Fun fact: I also enjoy developing new applications using tools like **Python, HTML, JavaScript**.
 
 
 ![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
