@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud" width="100%">
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="70%">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="60%">
 </div>
 
 ---
