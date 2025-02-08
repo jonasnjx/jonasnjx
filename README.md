@@ -17,11 +17,8 @@
 
 ---
 
-### 📊 GitHub Stats:
+### ☑️ Activity
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasnjx&show_icons=true&theme=radical)
-
-### 🌱 Contribution Graph:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasnjx&theme=react-dark)
-
 ![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jonasnjx?style=social)
