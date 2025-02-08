@@ -2,7 +2,7 @@
 
 ### ☑️ About Me  
 - 🔹 I am a full-time **Data Engineer**.
-- 🔹 I work mostly cloud architectures using technologies like AWS, GCP, and Azure.
+- 🔹 I work mostly cloud architectures using technologies like **AWS, GCP, and Azure**.
 - 🔹 I enjoy building applications during my free time using **Python, HTML, JavaScript**.
 
 ---
