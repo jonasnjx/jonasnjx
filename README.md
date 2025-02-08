@@ -1,16 +1,18 @@
-# Hi, I'm Jonas ☺️ 
+# Hi, I'm Jonas! ☺️ 
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud Expert" width="100%">
-</div>
+### ☑️ About Me  
+- 🔹 I am a full-time **Data Engineer**.
+- 🔹 I work mostly cloud architectures using technologies like AWS, GCP, and Azure.
+- 🔹 I enjoy building applications during my free time using **Python, HTML, JavaScript**.
 
 ---
-
-### 🚀 About Me  
-- 🔭 I'm an experienced **Cloud & Data Engineer**.
-- 🌱 I develop data pipelines and architectures for businesses using cloud technologies **AWS, GCP, Azure**.
-- ⚡ Fun fact: I also enjoy developing new applications using tools like **Python, HTML, JavaScript**.
-
+### ☑️ Skills
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud" width="100%">
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="100%">
+</div>
 
 ![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jonasnjx?style=social)
