@@ -1,4 +1,4 @@
-# Hi, I'm Jonas! 👋  
+# Hi, I'm Jonas ☺️ 
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud Expert" width="100%">
