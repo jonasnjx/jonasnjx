@@ -11,7 +11,7 @@
     <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud" width="100%">
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="100%">
+    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="80%">
 </div>
 
 ![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
