@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there! I'm Jonas 👋
+# Hi, I'm Jonas! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Senior+Data+Engineer;AI+Solutions+Architect;Building+Resilient+Data+Systems;Cloud+%26+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Engineering;Artificial+Intelligence;Modern+Cloud+Infrastructuret)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,6 @@
 ```yaml
 name: Jonas
 role: Senior Data Engineer
-location: Scaling AI across the enterprise
 mission: Building resilient data systems with modern AI & cloud tech
 ```
 
@@ -38,28 +37,6 @@ mission: Building resilient data systems with modern AI & cloud tech
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jonasnjx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonasnjx&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=jonasnjx&color=36BCF7&style=flat-square)
 
 *"Building the data infrastructure that powers tomorrow's AI"*
 
