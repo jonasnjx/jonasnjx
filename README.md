@@ -19,7 +19,7 @@ desc: I enjoy working on apps in my free time to learn and experiment.
 
 <div align="center">
 
-🐍 Python · 🗄️ SQL · ⚡ Spark · ☁️ AWS · 🐳 Docker · ☸️ Kubernetes
+☁️ AWS · 🔷 Azure · ❄️ Snowflake · 🐳 Docker · 🐍 Python · 🗄️ SQL
 
 </div>
 
