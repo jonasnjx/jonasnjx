@@ -1,24 +1,6 @@
-# Hi, I'm Jonas! ☺️ 
+# Hi, I'm Jonas!
 
-### ☑️ About Me  
-- 🔹 I am a full-time **Data Engineer**.
-- 🔹 I work mostly cloud architectures using technologies like **AWS, GCP, and Azure**.
-- 🔹 I enjoy building applications during my free time using **Python, HTML, JavaScript**.
+### 🌳 About Me  
+I'm working as a Senior Data Engineer, where I help teams scale AI solutions across the enterprise to drive impact by building a resilient backend data infrstructure system.
 
----
-
-### ☑️ Skills
-<div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/cloud.png" alt="Cloud" width="100%">
-</div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/jonasnjx/jonasnjx/main/assets/code.png" alt="Coding" width="60%">
-</div>
-
----
-
-### ☑️ Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasnjx&show_icons=true&theme=radical)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasnjx&theme=react-dark)
-![GitHub followers](https://img.shields.io/github/followers/jonasnjx?style=social)
-![GitHub stars](https://img.shields.io/github/stars/jonasnjx?style=social)
+In my free time, I enjoy building applications to learn and explore how AI can be used to drive meaningful change in the world.
